@@ -2,7 +2,7 @@
 
 This is a cloud computing project demonstrating how to build, containerize, and deploy a Node.js + MongoDB + HTML web application on **Azure Container Apps**, with **auto-scaling** and **monitoring** using **Application Insights**.
 
-![Architecture Diagram](https://github.com/Nagham94/DEPI-FINAL-PROJECT/blob/main/depi-project-diagram.jpeg) <!-- Replace with the actual image path in your repo -->
+![Architecture Diagram](https://github.com/Nagham94/CloudBootcamp-final-project/blob/main/Untitled.png) <!-- Replace with the actual image path in your repo -->
 
 ---
 
