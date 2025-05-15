@@ -18,8 +18,10 @@ This is a cloud computing project demonstrating how to build, containerize, and 
  **GitHub Repo:**  
 [https://github.com/Nagham94/CloudBootcamp-finalproject.git](https://github.com/Nagham94/CloudBootcamp-finalproject.git)
 
-**Full Project Demo on Yotube step by step:**  
-[View on Youtube](https://youtu.be/tUQJwSJ_ciI)
+**Full Project Demo on Youtube step by step:**  
+[Part 1](https://youtu.be/HujnyvUWvKE)
+[Part 2](https://youtu.be/WZ4vKja-TFc)
+[Part 3](https://youtu.be/D07pwxj0aCg)
 
 ---
 
